@@ -1,1 +1,1 @@
-"Alice Brown, alice.brown@mail.com" 
+Alice Brown, alice.brown@mail.com
